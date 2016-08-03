@@ -15,4 +15,4 @@ class ChatCard extends Component {
   }
 }
 
-module.exports = ChatCard--------------;
+module.exports = ChatCard;
