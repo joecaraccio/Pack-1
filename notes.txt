@@ -1,0 +1,25 @@
+Notes
+
+
+
+Good messenger thing: 
+https://github.com/FaridSafi/react-native-gifted-messenger
+
+
+material design:
+https://github.com/react-native-material-design/react-native-material-design
+
+
+parallax view (g00d for event detail thing)
+https://github.com/lelandrichardson/react-native-parallax-view
+
+scrollable tab view:
+https://github.com/skv-headless/react-native-scrollable-tab-view
+
+https://www.youtube.com/watch?v=oJgfnXRF8PM
+
+
+https://github.com/imaimiami/react-native-firebase-chat-demo
+
+
+https://codelabs.developers.google.com/codelabs/firebase-web/#7

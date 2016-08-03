@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\classes-12ac4700db0568b4ea30e5670867b46f26a15d1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.2.0\1ea229d6984444c8c58b8e97ba4c8429d9d135b3\okhttp-ws-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.2.0-d9b82be260096ec4a2f6bba3a3f0ed791e7972b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\classes-0de3b53bb6d1a9d29e536abc490ffd0c5e7c2152.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\classes-b2575f8b1b198838eb9f05c78577f423777aaa9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-3b677b2a800297694b0f24162e4849ec29ff30f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\classes-531e2f2274444aa29d4a7570e8906963a1beca94.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-c7fd96b00cb7bc52eabf5fc481832a1c5356c8b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.29.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d42533f34d201acfb5c6931797f2bff7edd23be5">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\classes-1bb443fa68138b1a962708d79c2dbee4018f06d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\okio-1.8.0-c6baf656c9c76c872a0e6df0b80db6db549e216e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.29.2\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e929793c04c52dc3373238562a3f87abf2d6f588">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-209b16a67972e861f7c31bbf65350e09d4cf68c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-f7e6bfff201f4efb544a3f4bae5cf17035f1206d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0-6eb6017e6751922ee0201025ead7832c628740d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\classes-1beb0ba244db7b1f39f88d683b00c19693b417b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3-d20249ee27809e106e766f77eda48b5f0858b1e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\classes-8a12a1fa7edb8c57ac87811f052f6f955800ce20.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\classes-44dc7d945795ee2ea47eb411f987d7c9eaf2260b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.2.0\6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c\okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.2.0-3f3f645b7d71cabdbbf6b76c777ade8a10fdf307.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-d60603eb4542bdc445fd0239fc5342435a76c925.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\classes-abc8bbf8803dfa747bd1cf6724a8d1bc36579de8.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1-6526ff53cf4eb9d5ad6a00fdd812012d9206f6c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\ulxlx\PackJuly\android\app\build\intermediates\pre-dexed\debug\classes-66fea937bba10d797c1f3b2f2c727f43e68ec602.jar" />
+    </item>
+
+</items>
